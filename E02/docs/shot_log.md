@@ -41,7 +41,7 @@ W02 re-rolls (original inscription garbled — user to pick one as final E02_CH0
 |---|---|---|---|
 | W02-alt-A | cinematic_studio_2_5 | 25ada4a6-d951-4fd1-abba-aa2485090117 | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104040_25ada4a6-d951-4fd1-abba-aa2485090117.png) |
 | W02-alt-B | nano_banana_flash | 9b5e696b-3cf5-4f8c-96b8-1060390e903d | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104043_9b5e696b-3cf5-4f8c-96b8-1060390e903d.png) |
-## CH03_INHERIT — Inheritance (1429 inherits bank; Florence as republic) — status: GENERATED, awaiting approval
+## CH03_INHERIT — Inheritance (1429 inherits bank; Florence as republic) — status: APPROVED
 
 | File | Model | Job ID | Shot | Result URL |
 |---|---|---|---|---|
@@ -53,7 +53,20 @@ W02 re-rolls (original inscription garbled — user to pick one as final E02_CH0
 | E02_CH03_INHERIT_M02.png | soul_2 | a5ca357e-368e-4808-bfed-412c3c8522c7 | Cosimo alone at desk, hand on inherited ledger, gazing over rooftops | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104137_a5ca357e-368e-4808-bfed-412c3c8522c7.png) |
 
 CH03 cost ≈ 8.2 credits. Running total spend ≈ 27 credits.
-## CH04_THREAD — pending
+## CH04_THREAD — The Threads (quiet lending to power players) — status: GENERATED, awaiting approval
+
+Final CH02 W02 = variant B (nano_banana_flash, job 9b5e696b) per default; user may override.
+
+| File | Model | Job ID | Shot | Result URL |
+|---|---|---|---|---|
+| E02_CH04_THREAD_M01.png | soul_2 | a1ef883d-9b21-4a31-a8aa-92338f7ddb0c | Cosimo sliding loan contract + florins to magistrate, candlelit study | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104648_a1ef883d-9b21-4a31-a8aa-92338f7ddb0c.png) |
+| E02_CH04_THREAD_CU01.png | cinematic_studio_2_5 | 5445c32c-60ca-4721-a1fc-2ce9c61f1a09 | Discreet hand-off of coin pouch in dim corridor, faces out of frame | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104653_5445c32c-60ca-4721-a1fc-2ce9c61f1a09.png) |
+| E02_CH04_THREAD_CU02.png | cinematic_studio_2_5 | 88a0c562-9c75-402c-a2fe-9594601ebb39 | Macro: gold thread drawn through dark loom (threads metaphor) | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104656_88a0c562-9c75-402c-a2fe-9594601ebb39.png) |
+| E02_CH04_THREAD_W01.png | cinematic_studio_2_5 | e3e34857-ab1c-4486-846a-c46956d78544 | Aerial night Florence, gold threads converging on one palazzo | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104701_e3e34857-ab1c-4486-846a-c46956d78544.png) |
+| E02_CH04_THREAD_M02.png | soul_2 | 3e4be22f-5cac-444c-b5d1-f94592d1b058 | Cosimo over map of Italy, crimson threads pinned city to city | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104706_3e4be22f-5cac-444c-b5d1-f94592d1b058.png) |
+| E02_CH04_THREAD_CU03.png | soul_2 | 59762ab4-23d6-4fa9-8cc1-f5508379f982 | Cosimo's hand sealing loan contract in crimson wax (animate candidate) | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104709_59762ab4-23d6-4fa9-8cc1-f5508379f982.png) |
+
+CH04 cost ≈ 6.4 credits. Running total spend ≈ 33 credits.
 ## CH05_POPE — pending
 ## CH06_VAULT — pending
 ## CH07_GRIP — pending
