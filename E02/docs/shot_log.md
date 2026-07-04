@@ -148,3 +148,61 @@ Video file naming: same as still, .mp4 (e.g. E02_CH01_ARREST_W01.mp4).
 | CH08 | W01 df2ca266-b8d6-4e60-84a9-6bb9c38e0ce7, M01 247f213d-7918-44a4-87cf-a0d70531e350, W02 43f0eb59-289b-4204-8ec3-87af7f08fb36, CU01 47cacf90-cac3-4dcd-a405-1658d8bf2350, M02 b0fe4d4a-4b4a-4648-aca7-44704295011a |
 | CH09 | W01 a929ae1d-af84-4645-b607-3d1dc7c4fb52, M01 bcabedc8-8660-46f9-b33f-2804e18753c7, W02 f7498a96-5584-4552-b252-0d95a85ea0d0, CU01 d824c2ce-e0ef-4577-82fa-47a11e1d1a56, W03 aa0f9952-e03a-4920-baf7-e7b7c4f9d012 |
 | CH10 | W01 faab0907-bba5-4c0e-a2ed-07a7f6f361a1, M01 5dea3680-70f7-4131-8cda-ed942b9e3132, M02 4c51fe6e-51a1-43d5-9cb9-667cc1c25c54, W02 d98a07b5-1fba-4cfd-a64d-7510da056e41, W03 bbb7bc57-2026-4edf-a877-e9db47fa615f |
+
+### Animation results (all 53 completed)
+
+| File | URL |
+|---|---|
+| E02_CH01_ARREST_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110201_df8f392f-a962-47f4-9b70-5be0f71336ff.mp4) |
+| E02_CH01_ARREST_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110204_428b5544-5c95-4dc1-ad18-02067a69c944.mp4) |
+| E02_CH01_ARREST_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110209_bf14592f-2bf4-43d6-b4b0-fdcbe9802b9b.mp4) |
+| E02_CH01_ARREST_M02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110126_61b8422c-b33c-4330-8f58-83ba2016f1ce.mp4) |
+| E02_CH01_ARREST_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110213_a18b4a16-a2f6-4d79-b839-53e1eee88f98.mp4) |
+| E02_CH01_ARREST_W03.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110145_f57308de-c8b9-468f-91fa-be3d8eda08e7.mp4) |
+| E02_CH02_CROWN_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110229_90d169d6-98e5-4b55-8651-6cd9ef9e3b34.mp4) |
+| E02_CH02_CROWN_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110232_25f205bc-7e30-4c2b-ad23-4a517b0d9f96.mp4) |
+| E02_CH02_CROWN_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110236_427e0d68-f48e-4344-93c6-a4de257287d3.mp4) |
+| E02_CH02_CROWN_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110240_9c6ec56b-7a2a-493b-90e7-a0cf3208689b.mp4) |
+| E02_CH02_CROWN_P01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110244_4c196c7d-1fca-483d-8793-6ae637b4da9a.mp4) |
+| E02_CH03_INHERIT_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110257_a5e5270e-c2dd-4e0c-93ba-b8e35a8dc249.mp4) |
+| E02_CH03_INHERIT_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110301_0ad257ee-c134-4a8f-8155-4ab652290d4f.mp4) |
+| E02_CH03_INHERIT_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110306_7b633c22-cffb-475e-93aa-dc4abd0e9ecb.mp4) |
+| E02_CH03_INHERIT_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110310_094f53ea-51e2-4594-b05b-93b7cd28bdb8.mp4) |
+| E02_CH03_INHERIT_W03.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110314_c58a2c69-b548-4aad-ac7d-0d1b45bc8ab8.mp4) |
+| E02_CH03_INHERIT_M02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110319_7fc734fa-d529-4d82-94c4-0decdd69b82b.mp4) |
+| E02_CH04_THREAD_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110335_d495204a-1da2-4332-af2e-b7a75f1bbc47.mp4) |
+| E02_CH04_THREAD_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110339_e50aafda-dc19-444b-8cf7-6a0f4c463faf.mp4) |
+| E02_CH04_THREAD_CU02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110344_5ab5074e-ff56-4e6a-a0cc-7ca52444a9f6.mp4) |
+| E02_CH04_THREAD_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110348_2cf4db88-33e6-49ed-b678-d361dd4ed973.mp4) |
+| E02_CH04_THREAD_M02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110352_ba396c3a-b12d-4bdf-afdf-d56c73122afd.mp4) |
+| E02_CH04_THREAD_CU03.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110355_1b40d45b-a7b9-45f3-9448-84c83c2df834.mp4) |
+| E02_CH05_POPE_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110408_24f2935a-1091-4a5c-8f24-6b9c0925faa1.mp4) |
+| E02_CH05_POPE_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110410_102c6c71-5d01-4b99-97a8-0ba38bb68008.mp4) |
+| E02_CH05_POPE_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110415_5c01c935-20b4-4bfa-bf92-e52f9270006a.mp4) |
+| E02_CH05_POPE_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110422_81dc0992-8f3f-4cbf-a1f8-003f51997663.mp4) |
+| E02_CH05_POPE_M02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110425_721dd9bc-878d-4a07-80c1-e349d8372019.mp4) |
+| E02_CH06_VAULT_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110429_8e90f15c-0496-4801-81bb-100e14aa6982.mp4) |
+| E02_CH06_VAULT_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110443_63d6fb5e-139c-4a1d-b134-682238ee3213.mp4) |
+| E02_CH06_VAULT_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110448_07561bd8-afc0-4122-97b3-dee2a1f33443.mp4) |
+| E02_CH06_VAULT_W03.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110451_84535105-a4c4-4d82-a3e4-c8f8f977a6c2.mp4) |
+| E02_CH06_VAULT_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110455_d3e5c5da-d3a4-47b2-ae73-14d761551221.mp4) |
+| E02_CH07_GRIP_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110511_241fe8c0-0bca-4b56-9a5c-890cd55e076a.mp4) |
+| E02_CH07_GRIP_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110515_553d40aa-10a7-41f3-9ae7-c1d7737196fa.mp4) |
+| E02_CH07_GRIP_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110519_f226704c-1894-45c6-ba43-b6e2aaf51bbf.mp4) |
+| E02_CH07_GRIP_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110530_8afa905d-a511-46d6-8bbc-52e4a7ed5b0a.mp4) |
+| E02_CH07_GRIP_CU02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110535_a7d6f0fe-c689-42fd-a5fc-02d6d44ded93.mp4) |
+| E02_CH08_FALL_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110539_df2ca266-b8d6-4e60-84a9-6bb9c38e0ce7.mp4) |
+| E02_CH08_FALL_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110552_247f213d-7918-44a4-87cf-a0d70531e350.mp4) |
+| E02_CH08_FALL_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110557_43f0eb59-289b-4204-8ec3-87af7f08fb36.mp4) |
+| E02_CH08_FALL_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110602_47cacf90-cac3-4dcd-a405-1658d8bf2350.mp4) |
+| E02_CH08_FALL_M02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110607_b0fe4d4a-4b4a-4648-aca7-44704295011a.mp4) |
+| E02_CH09_FREEZE_W01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110620_a929ae1d-af84-4645-b607-3d1dc7c4fb52.mp4) |
+| E02_CH09_FREEZE_M01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110625_bcabedc8-8660-46f9-b33f-2804e18753c7.mp4) |
+| E02_CH09_FREEZE_W02.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110634_f7498a96-5584-4552-b252-0d95a85ea0d0.mp4) |
+| E02_CH09_FREEZE_CU01.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110636_d824c2ce-e0ef-4577-82fa-47a11e1d1a56.mp4) |
+| E02_CH09_FREEZE_W03.mp4 | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110639_aa0f9952-e03a-4920-baf7-e7b7c4f9d012.mp4) |
+- [E02_CH10_RETURN_W01.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110643_faab0907-bba5-4c0e-a2ed-07a7f6f361a1.mp4)
+- [E02_CH10_RETURN_M01.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110659_5dea3680-70f7-4131-8cda-ed942b9e3132.mp4)
+- [E02_CH10_RETURN_M02.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110703_4c51fe6e-51a1-43d5-9cb9-667cc1c25c54.mp4)
+- [E02_CH10_RETURN_W02.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110708_d98a07b5-1fba-4cfd-a64d-7510da056e41.mp4)
+- [E02_CH10_RETURN_W03.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110710_bbb7bc57-2026-4edf-a877-e9db47fa615f.mp4)
