@@ -22,7 +22,7 @@ Note: this session's network policy blocks direct downloads from the Higgsfield 
 The local ffmpeg render step (pipeline step 4) will need that domain allowed in the
 environment's network policy, or the render must happen on a machine with open egress.
 
-## CH02_CROWN — No Crown (Pater Patriae tombstone, show intro) — status: GENERATED, awaiting approval
+## CH02_CROWN — No Crown (Pater Patriae tombstone, show intro) — status: APPROVED (W02 re-rolled, pick pending)
 
 | File | Model | Job ID | Shot | Result URL |
 |---|---|---|---|---|
@@ -34,7 +34,25 @@ environment's network policy, or the render must happen on a machine with open e
 | E02_CH02_CROWN_T01.png | nano_banana_2 | c1c9c3e6-a245-480f-b6fe-41b0aa502dfd | Series title card: WEALTH THROUGH TIME + episode subtitle | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_080948_c1c9c3e6-a245-480f-b6fe-41b0aa502dfd.png) |
 
 CH02 cost ≈ 8.2 credits (3 × 2 Cinema Studio + 2 × 0.12 soul_2 + ~2 nano_banana_2). Title card used Nano Banana 2 (off-brief model) for legible Trajan-style typography.
-## CH03_INHERIT — pending
+
+W02 re-rolls (original inscription garbled — user to pick one as final E02_CH02_CROWN_W02.png):
+
+| Variant | Model | Job ID | Result URL |
+|---|---|---|---|
+| W02-alt-A | cinematic_studio_2_5 | 25ada4a6-d951-4fd1-abba-aa2485090117 | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104040_25ada4a6-d951-4fd1-abba-aa2485090117.png) |
+| W02-alt-B | nano_banana_flash | 9b5e696b-3cf5-4f8c-96b8-1060390e903d | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104043_9b5e696b-3cf5-4f8c-96b8-1060390e903d.png) |
+## CH03_INHERIT — Inheritance (1429 inherits bank; Florence as republic) — status: GENERATED, awaiting approval
+
+| File | Model | Job ID | Shot | Result URL |
+|---|---|---|---|---|
+| E02_CH03_INHERIT_W01.png | cinematic_studio_2_5 | 8ead0834-b0f9-4863-a8e2-8f7e7327d328 | Golden-hour panorama of Florence 1429, prosperous republic | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104116_8ead0834-b0f9-4863-a8e2-8f7e7327d328.png) |
+| E02_CH03_INHERIT_M01.png | soul_2 | c5c425f9-9bd5-4fd9-9408-40e8972d8bd8 | Cosimo at his dying father's bedside, signet ring passed | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104121_c5c425f9-9bd5-4fd9-9408-40e8972d8bd8.png) |
+| E02_CH03_INHERIT_W02.png | cinematic_studio_2_5 | 18a6c3b1-ef48-40d5-b707-cfe8bc6c4c45 | Banking house interior: clerks, florins on scales, ledgers | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104125_18a6c3b1-ef48-40d5-b707-cfe8bc6c4c45.png) |
+| E02_CH03_INHERIT_CU01.png | cinematic_studio_2_5 | 76508637-283e-4fc2-a83f-73ecdf2327d3 | Close-up: open ledger, quill, florins, red wax seal | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104129_76508637-283e-4fc2-a83f-73ecdf2327d3.png) |
+| E02_CH03_INHERIT_W03.png | cinematic_studio_2_5 | 57cf3f6f-a94f-44a6-bed2-8a5efd83c482 | Council chamber: name slips drawn from leather pouch (rotating offices) | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104133_57cf3f6f-a94f-44a6-bed2-8a5efd83c482.png) |
+| E02_CH03_INHERIT_M02.png | soul_2 | a5ca357e-368e-4808-bfed-412c3c8522c7 | Cosimo alone at desk, hand on inherited ledger, gazing over rooftops | [png](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_104137_a5ca357e-368e-4808-bfed-412c3c8522c7.png) |
+
+CH03 cost ≈ 8.2 credits. Running total spend ≈ 27 credits.
 ## CH04_THREAD — pending
 ## CH05_POPE — pending
 ## CH06_VAULT — pending
