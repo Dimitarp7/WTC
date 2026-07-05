@@ -206,3 +206,21 @@ Video file naming: same as still, .mp4 (e.g. E02_CH01_ARREST_W01.mp4).
 - [E02_CH10_RETURN_M02.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110703_4c51fe6e-51a1-43d5-9cb9-667cc1c25c54.mp4)
 - [E02_CH10_RETURN_W02.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110708_d98a07b5-1fba-4cfd-a64d-7510da056e41.mp4)
 - [E02_CH10_RETURN_W03.mp4](https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260704_110710_bbb7bc57-2026-4edf-a877-e9db47fa615f.mp4)
+
+## Fix: CH10_RETURN_M01 (bicycle artifact)
+Original still/clip showed Cosimo on a bicycle. Regenerated: still job 15b6fe76-79fa-444a-b14c-230cfab60ce2 (chestnut horse, explicit), clip job 8363fdb3-b196-4fac-b852-a15ab8641081. Manifest updated.
+
+## Voiceover — Harrison (preset 573e5163-59b3-4926-aab1-951ef2985f81), seed_audio, 8 segments (~381s total)
+| Segment | Job ID | Duration | Covers |
+|---|---|---|---|
+| E02_VO_B1.wav | c5e4f5a3 | 76.5s | Cold open + No Crown + show intro |
+| E02_VO_B2.wav | 3375f04f | 47.3s | Inheritance + quiet lending begins |
+| E02_VO_B3.wav | 10132b80 | 50.6s | Pope's banker + threads |
+| E02_VO_B4.wav | b58cfabd | 58.4s | Branch network + sealed compartments + the grip |
+| E02_VO_B5.wav | 61dc9711 | 52.6s | 1433 arrest, exile not execution |
+| E02_VO_B6.wav | 72188187 | 40.8s | Venice, credit freeze, 1434 return |
+| E02_VO_B7.wav | bb4ec922 | 42.9s | Legacy, too big to fail, motive line |
+| E02_VO_B8.wav | 72e0c3de | 11.6s | Rothschild teaser |
+
+## Render kit — E02/render/
+manifest.tsv (115 assets), edit_decision_list.txt (8 blocks, CH07→CH08 hard cut, CH01 reuse in block 5, closing montage in block 7), download_assets.sh (builds ~/Downloads/WealthThroughTime/E02), render.sh (ffmpeg assembly, per-block stretch to narration).
