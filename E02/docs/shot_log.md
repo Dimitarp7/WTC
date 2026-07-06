@@ -224,3 +224,6 @@ Original still/clip showed Cosimo on a bicycle. Regenerated: still job 15b6fe76-
 
 ## Render kit — E02/render/
 manifest.tsv (115 assets), edit_decision_list.txt (8 blocks, CH07→CH08 hard cut, CH01 reuse in block 5, closing montage in block 7), download_assets.sh (builds ~/Downloads/WealthThroughTime/E02), render.sh (ffmpeg assembly, per-block stretch to narration).
+
+## FINAL ASSEMBLY — explainer_video job b1c553cc-0de2-46c3-a7bd-45780a219369
+72 blocks (70 narrated + 2 silent beats), 1344x768, ~6 min. Narration re-generated as 70 sentence-level Harrison takes (see E02/render/assembly_map.tsv for block order: audio job → video job). Server-side assembly, no local render needed.
