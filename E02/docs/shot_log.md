@@ -227,3 +227,7 @@ manifest.tsv (115 assets), edit_decision_list.txt (8 blocks, CH07→CH08 hard cu
 
 ## FINAL ASSEMBLY — explainer_video job b1c553cc-0de2-46c3-a7bd-45780a219369
 72 blocks (70 narrated + 2 silent beats), 1344x768, ~6 min. Narration re-generated as 70 sentence-level Harrison takes (see E02/render/assembly_map.tsv for block order: audio job → video job). Server-side assembly, no local render needed.
+
+## ✅ FINAL EPISODE COMPLETED — 2026-07-06
+E02_CosimoDeMedici_FINAL: https://d8j0ntlcm91z4.cloudfront.net/user_328BSQHh3aM3cx9zis3OoXkjp3y/hf_20260706_124633_b1c553cc-0de2-46c3-a7bd-45780a219369.mp4
+(explainer_video job b1c553cc-0de2-46c3-a7bd-45780a219369, 72 blocks, 1344x768, ~6 min)
