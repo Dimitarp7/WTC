@@ -7,7 +7,7 @@ V="$BASE/video"; S="$BASE/stills"; A="$BASE/audio"
 W="$BASE/render/work"; mkdir -p "$W"
 EDL="$(cd "$(dirname "$0")" && pwd)/edit_decision_list.txt"
 OUT="$BASE/E02_CosimoDeMedici_FINAL.mp4"
-FF="ffmpeg -hide_banner -loglevel error -y"
+FF="ffmpeg -nostdin -hide_banner -loglevel error -y"
 
 norm() { # normalize a clip to 1920x1080/30fps h264, silent
   local src="$1" dst="$2"
